@@ -1,0 +1,603 @@
+[
+    {
+        "id": 1,
+        "item_name": "Pizza",
+        "half_price": 160,
+        "full_price": 260
+    },
+    {   
+        "id": 2,
+        "item_name": "burgger",
+        "half_price": 60,
+        "full_price": 120
+    },
+    {
+        "id": 3,
+        "item_name": "Veg Biryani",
+        "half_price": 120,
+        "full_price": 220
+    },
+    {
+        "id": 4,
+        "item_name": "Noodles",
+        "half_price": 90,
+        "full_price": 180
+    },
+    {
+        "id": 5,
+        "item_name": "Pasta",
+        "half_price": 110,
+        "full_price": 200
+    },
+    {
+        "id": 6,
+        "item_name": "Veg Sandwich",
+        "half_price": 70,
+        "full_price": 130
+    },
+    {
+        "id": 7,
+        "item_name": "French Fries",
+        "half_price": 60,
+        "full_price": 120
+    },
+    {
+        "id": 8,
+        "item_name": "Veg Momos",
+        "half_price": 80,
+        "full_price": 150
+    },
+    {
+        "id": 9,
+        "item_name": "Spring Roll",
+        "half_price": 90,
+        "full_price": 170
+    },
+    {
+        "id": 10,
+        "item_name": "Paneer Tikka",
+        "half_price": 140,
+        "full_price": 260
+    },
+    {
+        "id": 11,
+        "item_name": "Manchurian",
+        "half_price": 100,
+        "full_price": 190
+    },
+    {
+        "id": 12,
+        "item_name": "Fried Rice",
+        "half_price": 110,
+        "full_price": 210
+    },
+    {
+        "id": 13,
+        "item_name": "Veg Roll",
+        "half_price": 70,
+        "full_price": 140
+    },
+    {
+        "id": 14,
+        "item_name": "Cheese Sandwich",
+        "half_price": 90,
+        "full_price": 170
+    },
+    {
+        "id": 15,
+        "item_name": "Paneer Burger",
+        "half_price": 100,
+        "full_price": 180
+    },
+    {
+        "id": 16,
+        "item_name": "Veg Chowmein",
+        "half_price": 90,
+        "full_price": 180
+    },
+    {
+        "id": 17,
+        "item_name": "Chicken Burger",
+        "half_price": 120,
+        "full_price": 220
+    },
+    {
+        "id": 18,
+        "item_name": "Chicken Biryani",
+        "half_price": 180,
+        "full_price": 320
+    },
+    {
+        "id": 19,
+        "item_name": "Chicken Tikka",
+        "half_price": 200,
+        "full_price": 350
+    },
+    {
+        "id": 20,
+        "item_name": "Chicken Roll",
+        "half_price": 100,
+        "full_price": 180
+    },
+    {
+        "id": 21,
+        "item_name": "Chicken Noodles",
+        "half_price": 130,
+        "full_price": 240
+    },
+    {
+        "id": 22,
+        "item_name": "Chicken Momos",
+        "half_price": 110,
+        "full_price": 200
+    },
+    {
+        "id": 23,
+        "item_name": "Chicken Pasta",
+        "half_price": 140,
+        "full_price": 260
+    },
+    {
+        "id": 24,
+        "item_name": "Chicken Fried Rice",
+        "half_price": 150,
+        "full_price": 280
+    },
+    {
+        "id": 25,
+        "item_name": "Chicken Manchurian",
+        "half_price": 160,
+        "full_price": 300
+    },
+    {
+        "id": 26,
+        "item_name": "Chicken Sandwich",
+        "half_price": 120,
+        "full_price": 220
+    },
+    {
+        "id": 27,
+        "item_name": "Chicken Chowmein",
+        "half_price": 140,
+        "full_price": 250
+    },
+    {
+        "id": 28,
+        "item_name": "Egg Roll",
+        "half_price": 80,
+        "full_price": 150
+    },
+    {
+        "id": 29,
+        "item_name": "Chicken Spring Roll",
+        "half_price": 120,
+        "full_price": 220
+    },
+    {
+        "id": 30,
+        "item_name": "Fish Fingers",
+        "half_price": 180,
+        "full_price": 320
+    },
+    {
+        "id": 31,
+        "item_name": "Chicken Wings",
+        "half_price": 200,
+        "full_price": 350
+    },
+    {
+        "id": 32,
+        "item_name": "Paneer Butter Masala",
+        "half_price": 140,
+        "full_price": 260
+    },
+    {
+        "id": 33,
+        "item_name": "Shahi Paneer",
+        "half_price": 150,
+        "full_price": 280
+    },
+    {
+        "id": 34,
+        "item_name": "Kadai Paneer",
+        "half_price": 150,
+        "full_price": 280
+    },
+    {
+        "id": 35,
+        "item_name": "Palak Paneer",
+        "half_price": 140,
+        "full_price": 260
+    },
+    {
+        "id": 36,
+        "item_name": "Matar Paneer",
+        "half_price": 130,
+        "full_price": 240
+    },
+    {
+        "id": 37,
+        "item_name": "Mix Veg",
+        "half_price": 120,
+        "full_price": 220
+    },
+    {
+        "id": 38,
+        "item_name": "Aloo Gobi",
+        "half_price": 110,
+        "full_price": 200
+    },
+    {
+        "id": 39,
+        "item_name": "Dum Aloo",
+        "half_price": 120,
+        "full_price": 220
+    },
+    {
+        "id": 40,
+        "item_name": "Bhindi Masala",
+        "half_price": 120,
+        "full_price": 220
+    },
+    {
+        "id": 41,
+        "item_name": "Chana Masala",
+        "half_price": 110,
+        "full_price": 200
+    },
+    {
+        "id": 42,
+        "item_name": "Dal Tadka",
+        "half_price": 100,
+        "full_price": 180
+    },
+    {
+        "id": 43,
+        "item_name": "Dal Fry",
+        "half_price": 90,
+        "full_price": 170
+    },
+    {
+        "id": 44,
+        "item_name": "Malai Kofta",
+        "half_price": 150,
+        "full_price": 280
+    },
+    {
+        "id": 45,
+        "item_name": "Navratan Korma",
+        "half_price": 140,
+        "full_price": 260
+    },
+    {
+        "id": 46,
+        "item_name": "Veg Kolhapuri",
+        "half_price": 130,
+        "full_price": 240
+    },
+    {
+        "id": 47,
+        "item_name": "Sev Tamatar",
+        "half_price": 120,
+        "full_price": 220
+    },
+    {
+        "id": 48,
+        "item_name": "Gatte Ki Sabji",
+        "half_price": 130,
+        "full_price": 240
+    },
+    {
+        "id": 49,
+        "item_name": "Rajma Masala",
+        "half_price": 110,
+        "full_price": 200
+    },
+    {
+        "id": 50,
+        "item_name": "Kadhi Pakoda",
+        "half_price": 100,
+        "full_price": 180
+    },
+    {
+        "id": 51,
+        "item_name": "Baingan Bharta",
+        "half_price": 120,
+        "full_price": 220
+    },
+    {
+        "id": 52,
+        "item_name": "Aloo Matar",
+        "half_price": 100,
+        "full_price": 180
+    },
+    {
+        "id": 53,
+        "item_name": "Methi Malai Matar",
+        "half_price": 140,
+        "full_price": 260
+    },
+    {
+        "id": 54,
+        "item_name": "Paneer Bhurji",
+        "half_price": 150,
+        "full_price": 280
+    },
+    {
+        "id": 55,
+        "item_name": "Stuffed Capsicum",
+        "half_price": 140,
+        "full_price": 260
+    },
+    {
+        "id": 56,
+        "item_name": "Jeera Aloo",
+        "half_price": 100,
+        "full_price": 180
+    },
+    {
+        "id": 57,
+        "item_name": "Butter Chicken",
+        "half_price": 180,
+        "full_price": 320
+    },
+    {
+        "id": 58,
+        "item_name": "Chicken Curry",
+        "half_price": 160,
+        "full_price": 300
+    },
+    {
+        "id": 59,
+        "item_name": "Kadai Chicken",
+        "half_price": 180,
+        "full_price": 330
+    },
+    {
+        "id": 60,
+        "item_name": "Chicken Masala",
+        "half_price": 170,
+        "full_price": 310
+    },
+    {
+        "id": 61,
+        "item_name": "Chicken Handi",
+        "half_price": 190,
+        "full_price": 340
+    },
+    {
+        "id": 62,
+        "item_name": "Mutton Curry",
+        "half_price": 220,
+        "full_price": 400
+    },
+    {
+        "id": 63,
+        "item_name": "Mutton Rogan Josh",
+        "half_price": 240,
+        "full_price": 420
+    },
+    {
+        "id": 64,
+        "item_name": "Egg Curry",
+        "half_price": 120,
+        "full_price": 220
+    },
+    {
+        "id": 65,
+        "item_name": "Fish Curry",
+        "half_price": 200,
+        "full_price": 360
+    },
+    {
+        "id": 66,
+        "item_name": "Chicken Do Pyaza",
+        "half_price": 180,
+        "full_price": 320
+    },
+    {
+        "id": 67,
+        "item_name": "Tandoori Roti",
+        "half_price": 15,
+        "full_price": 30
+    },
+    {
+        "id": 68,
+        "item_name": "Butter Roti",
+        "half_price": 20,
+        "full_price": 40
+    },
+    {
+        "id": 69,
+        "item_name": "Plain Naan",
+        "half_price": 30,
+        "full_price": 60
+    },
+    {
+        "id": 70,
+        "item_name": "Butter Naan",
+        "half_price": 40,
+        "full_price": 80
+    },
+    {
+        "id": 71,
+        "item_name": "Garlic Naan",
+        "half_price": 50,
+        "full_price": 100
+    },
+    {
+        "id": 72,
+        "item_name": "Lachha Paratha",
+        "half_price": 40,
+        "full_price": 80
+    },
+    {
+        "id": 73,
+        "item_name": "Missi Roti",
+        "half_price": 25,
+        "full_price": 50
+    },
+    {
+        "id": 74,
+        "item_name": "Stuffed Kulcha",
+        "half_price": 50,
+        "full_price": 100
+    },
+    {
+        "id": 75,
+        "item_name": "Aloo Paratha",
+        "half_price": 45,
+        "full_price": 90
+    },
+    {
+        "id": 76,
+        "item_name": "Paneer Kulcha",
+        "half_price": 60,
+        "full_price": 120
+    },
+    {
+        "id": 77,
+        "item_name": "Gulab Jamun",
+        "half_price": 40,
+        "full_price": 80
+    },
+    {
+        "id": 78,
+        "item_name": "Rasgulla",
+        "half_price": 35,
+        "full_price": 70
+    },
+    {
+        "id": 79,
+        "item_name": "Rasmalai",
+        "half_price": 50,
+        "full_price": 100
+    },
+    {
+        "id": 80,
+        "item_name": "Ice Cream",
+        "half_price": 60,
+        "full_price": 120
+    },
+    {
+        "id": 81,
+        "item_name": "Chocolate Brownie",
+        "half_price": 80,
+        "full_price": 160
+    },
+    {
+        "id": 82,
+        "item_name": "Fruit Custard",
+        "half_price": 50,
+        "full_price": 100
+    },
+    {
+        "id": 83,
+        "item_name": "Kheer",
+        "half_price": 45,
+        "full_price": 90
+    },
+    {
+        "id": 84,
+        "item_name": "Gajar Halwa",
+        "half_price": 60,
+        "full_price": 120
+    },
+    {
+        "id": 85,
+        "item_name": "Moong Dal Halwa",
+        "half_price": 70,
+        "full_price": 140
+    },
+    {
+        "id": 86,
+        "item_name": "Kulfi",
+        "half_price": 50,
+        "full_price": 100
+    },
+    {
+        "id": 87,
+        "item_name": "Tea",
+        "half_price": 15,
+        "full_price": 30
+    },
+    {
+        "id": 88,
+        "item_name": "Coffee",
+        "half_price": 25,
+        "full_price": 50
+    },
+    {
+        "id": 89,
+        "item_name": "Cold Coffee",
+        "half_price": 50,
+        "full_price": 100
+    },
+    {
+        "id": 90,
+        "item_name": "Hot Chocolate",
+        "half_price": 60,
+        "full_price": 120
+    },
+    {
+        "id": 91,
+        "item_name": "Lemon Soda",
+        "half_price": 30,
+        "full_price": 60
+    },
+    {
+        "id": 92,
+        "item_name": "Masala Soda",
+        "half_price": 35,
+        "full_price": 70
+    },
+    {
+        "id": 93,
+        "item_name": "Coca Cola",
+        "half_price": 25,
+        "full_price": 50
+    },
+    {
+        "id": 94,
+        "item_name": "Pepsi",
+        "half_price": 25,
+        "full_price": 50
+    },
+    {
+        "id": 95,
+        "item_name": "Sprite",
+        "half_price": 25,
+        "full_price": 50
+    },
+    {
+        "id": 96,
+        "item_name": "Orange Juice",
+        "half_price": 40,
+        "full_price": 80
+    },
+    {
+        "id": 97,
+        "item_name": "Mango Shake",
+        "half_price": 60,
+        "full_price": 120
+    },
+    {
+        "id": 98,
+        "item_name": "Banana Shake",
+        "half_price": 55,
+        "full_price": 110
+    },
+    {
+        "id": 99,
+        "item_name": "Chocolate Shake",
+        "half_price": 70,
+        "full_price": 140
+    },
+    {
+        "id": 100,
+        "item_name": "Mineral Water",
+        "half_price": 10,
+        "full_price": 20
+    }
+    
+]

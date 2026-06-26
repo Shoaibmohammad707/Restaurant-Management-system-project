@@ -1,0 +1,17 @@
+[
+    {
+        "customer_name": "shoaib",
+        "table_no": "5",
+        "time": "10:00 pm"
+    },
+    {
+        "customer_name": "shoaib",
+        "table_no": "5",
+        "time": "10:00"
+    },
+    {
+        "customer_name": "sahil",
+        "table_no": "6",
+        "time": "5:00"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "item": "Coffee",
+        "size": "full",
+        "qty": 5,
+        "price": 50,
+        "total": 250,
+        "date": "2026-06-26"
+    },
+    {
+        "item": "Stuffed Capsicum",
+        "size": "half",
+        "qty": 3,
+        "price": 140,
+        "total": 420,
+        "date": "2026-06-26"
+    }
+]

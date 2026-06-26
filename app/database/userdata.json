@@ -1,0 +1,47 @@
+[
+    {
+        "id": "c5f3badd",
+        "email": "shoaib@gmail.com",
+        "password": "123456",
+        "name": "shoaib",
+        "address": "jodhpur",
+        "qualification": "bca",
+        "role": "staff"
+    },
+    {
+        "id": "3eba95a3",
+        "email": "shoaib123@gmail.com",
+        "password": "121121",
+        "name": "shoaib",
+        "address": "jodhpur",
+        "qualification": "bca",
+        "role": "admin"
+    },
+    {
+        "id": "1b9eb734",
+        "email": "rehan@gmail.com",
+        "password": "123456",
+        "name": "rehan",
+        "address": "jodhpur",
+        "qualification": "bca",
+        "role": "staff"
+    },
+    {
+        "id": "31b198ab",
+        "email": "sahil@gmail.com",
+        "password": "123123",
+        "name": "sahil",
+        "address": "jodhpur",
+        "qualification": "mca",
+        "role": "staff"
+    },
+    {
+        "id": "be6691c2",
+        "email": "shoaib123@gmail.com",
+        "password": "121121",
+        "name": "shoaib",
+        "address": "jodhpur",
+        "qualification": "bca",
+        "role": "admin"
+    }
+]
